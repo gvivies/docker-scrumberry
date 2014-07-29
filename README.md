@@ -1,10 +1,6 @@
 docker-scrumberry
 =================
 
-Docker files for [Scrumberry](https://github.com/scrumberry/scrumberry/)
-
-# docker-scrumberry
-
 Docker files used to run Scrumberry. 2 containers availables :
 - scrumberry is the container running [Node.js](http://www.nodejs.org/)
 - mongodb is th container running MongoDB database - Download and Install [MongoDB](http://docs.mongodb.org/manual/installation/)
